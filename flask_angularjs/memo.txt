@@ -1,0 +1,57 @@
+https://towardsdatascience.com/build-a-simple-chatbot-with-python-and-google-search-c000aa3f73f0
+https://angular.io/guide/http
+
+https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/
+
+(O) python -m pip install -r ..\..\requirements.txt
+(X) pip install -r ..\..\requirements.txt
+
+#ルーティング設定を行ったAngularアプリをFlaskで動かす
+https://qiita.com/s-haya-123/items/6e47eb5fb5f83957bcb9
+
+$ ng new MyApp
+$ cd MyApp
+$ ng g component test
+$ ng build --prod
+$ ng serve
+
+$ rm -rf node_modules/
+$ npm install
+
+$ ng serve --proxy-config src\proxy.conf.json
+
+#UI
+https://bootsnipp.com/tags/chat
+https://bootsnipp.com/snippets/1ea0N
+
+# route
+https://stackoverflow.com/questions/14023864/flask-url-route-route-all-other-urls-to-some-function
+$ ng build --prod --aot=false --build-optimizer=false --no-progress
+https://medium.com/tinywave/angular-6-404-error-during-refresh-after-deployed-8cec7140b584
+https://stackoverflow.com/questions/49011276/angular-httpclient-doesnt-send-post-it-sends-options
+
+https://stackoverflow.com/questions/51984268/how-to-get-base-url-in-angular-5
+
+https://greywyvern.com/code/php/binary2base64
+
+https://stackblitz.com/edit/angular-tour-of-heroes-example?file=app%2Fhero.service.ts
+https://stackblitz.com/edit/stackoverflow-50128402
+
+https://stackoverflow.com/questions/50128402/rxjs-observable-how-to-fetch-data-from-json-object
+
+
+#>netstat -ano | findstr :4200
+  TCP         127.0.0.1:4200         0.0.0.0:0              LISTENING       19140
+
+#>taskkill /PID 19140 /F
+成功: PID 19140 のプロセスは強制終了されました。
+
+
+# How to enable CORS in flask
+https://stackoverflow.com/questions/25594893/how-to-enable-cors-in-flask
+
+# Angular 6 app call to API on localhost blocked by CORS
+https://stackoverflow.com/questions/56925111/angular-6-app-call-to-api-on-localhost-blocked-by-cors
+
+# Fixing CORS Issues in Your Front-End Angular 7/8 App with Angular CLI Proxy Configuration
+https://www.techiediaries.com/fix-cors-with-angular-cli-proxy-configuration/

@@ -1,0 +1,17 @@
+# React
+$ npx create-react-app pychee
+
+$ cd pychee
+$ npm run build
+$ npm start
+http://localhost:3000/
+
+# Python
+
+$ python -m venv . //create venv
+$ python -m ensurepip //option
+$ cd env
+$ cd Script
+$ activate
+$ python -m pip install -r ..\..\requirements.txt
+$ python ..\..\index.py

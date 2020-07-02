@@ -1,0 +1,11 @@
+{
+  "name": "pychat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

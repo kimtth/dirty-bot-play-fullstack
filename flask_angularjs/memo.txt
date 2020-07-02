@@ -1,3 +1,9 @@
+﻿$ npm install
+$ ng build --prod
+$ ng serve
+
+---------------------references---------------
+
 https://towardsdatascience.com/build-a-simple-chatbot-with-python-and-google-search-c000aa3f73f0
 https://angular.io/guide/http
 

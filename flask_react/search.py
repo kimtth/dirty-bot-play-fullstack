@@ -5,6 +5,7 @@ from lxml import html
 from googlesearch import search
 from bs4 import BeautifulSoup
 from flask import jsonify
+import time
 
 # to search
 # print(chatbot_query('how old is samuel l jackson'))
@@ -13,6 +14,7 @@ class message:
     def __init__(self, req_msg, res_msg):
         self.req_msg = req_msg
         self.res_msg = res_msg
+        self.time_stamp = time.strftime("%Y%m%d-%H%M%S")
 
 class chatbot_action:
 

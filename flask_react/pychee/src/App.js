@@ -57,14 +57,14 @@ class MyComponent extends React.Component {
                     <div className="received_msg">
                       <div className="received_withd_msg">
                         <p>{msg.req_msg}</p>
-                        <span className="time_date">{Date.now()}</span>
+                        <span className="time_date">{msg.time_stamp}</span>
                       </div>
                     </div>
 
                   <div className="outgoing_msg">
                     <div className="sent_msg">
                       <p>{msg.res_msg}</p>
-                      <span className="time_date">{Date.now()}</span>
+                      <span className="time_date">{msg.time_stamp}</span>
                     </div>
                   </div>
                 </div>

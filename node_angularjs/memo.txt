@@ -1,0 +1,15 @@
+npm init
+npm install -g 
+npm start
+
+
+# How to use exports
+1.User.js
+const getName = () => {
+  return 'Jim';
+};
+exports.getName = getName;
+
+2.use in app.js
+const user = require('./user');
+console.log(`User: ${user.getName()}`);

@@ -4,8 +4,21 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "npm test" && exit 1"
+    "start": "node app.js",
+    "test": ""
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xml-js": "^1.6.2",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "hbs": "^4.0.1",
+    "dateformat": "*",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.54.0"
+  }
 }

@@ -1,5 +1,5 @@
-# Dirty_bot
-The Playgrounds of Full stack using simple bot screen.
+# Dirty Bot
+The playgrounds of Full-stack using simple bot screen.
 
 1) Python (Flask) + Angular2 + Googlesearch
 2) Python (Flask) + ReactJs + Googlesearch
